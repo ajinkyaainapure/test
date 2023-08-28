@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ainapure Ajinkya
+Skills: AWS, DevOps tools, python, Terraform, Kubernetes, Docker, Jenkins, Git, GitHub, Tomcat, Maven.
+Email: ajinkyaainapure36@gmail.com
+{{/user}}
